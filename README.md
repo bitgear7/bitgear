@@ -6,7 +6,7 @@ bitgear is a protocol to inscribe randomly generated gear deriving from Bitcoin 
 
 Imagine extracting a piece of equipment from each future Bitcoin block!
 
-To extract the data of a bitgear, slice the last 9 hex digits of a newly mined Bitcoin block hash (Genesis block):
+To extract the data of a bitgear, slice the last 9 hex digits of a newly mined Bitcoin block hash.
 
 Genesis Block Hash Example:
 
