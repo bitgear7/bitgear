@@ -1,5 +1,7 @@
 # bitgear
 
+![bitgear logo](https://raw.githubusercontent.com/bitgear7/bitgear/refs/heads/main/bitgear.png)
+
 ## Introduction
 
 bitgear is a protocol to inscribe randomly generated gear deriving from Bitcoin blocks.
